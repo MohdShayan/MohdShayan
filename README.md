@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Mohd Shayan Qureshi 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohdShayan.MohdShayan&left_color=royalblue&right_color=black"  />
-
-
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohdShayan.MohdShayan&left_color=royalblue&right_color=black" />
 
 ## About me:
 - 🔭 I'm a **Web Developer** and **Blockchain Enthusiast**
@@ -11,12 +8,12 @@
 - 👯 I’m looking to collaborate on **Web3** and **Full Stack Projects**
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/MohdShayan/)
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
-
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 
 # 💻 Tech Stack:
- 
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -31,17 +28,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-
-
 ## My Journey:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MohdShayan&show_icons=true&theme=tokyonight" />
   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdShayan&layout=compact&theme=tokyonight" />
-
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdShayan&theme=tokyonight" />
 </div>
-
 
 ## Feeding...
 <picture>
@@ -50,6 +42,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MohdShayan/MohdShayan/output/github-snake.svg" />
 </picture>
 
+## Let's Code & Smile! 😄
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
+</p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b>, so feel free to say <b>hi!</b> 😊</em>
