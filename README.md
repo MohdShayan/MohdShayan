@@ -1,18 +1,25 @@
-<h1 align="center">Hi, I'm Mohd Shayan Qureshi 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohdShayan.MohdShayan&left_color=royalblue&right_color=black" />
+<h1 align="center">Hi, I'm Mohd. Shayan Qureshi 👋</h1>
+<img align="right" src="https://visitcount.itsvg.in/api?id=MohdShayan&label=Profile%20Views&color=0&pretty=false" />
+
+
 
 ## About me:
+</br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
+
 - 🔭 I'm a **Web Developer** and **Blockchain Enthusiast**
 - 🌱 Currently Learning **Solidity** and **Web3 Technologies**
 - 🌱 Pursuing **B.Tech in Computer Science and Engineering (2nd Year)**
 - 👯 I’m looking to collaborate on **Web3** and **Full Stack Projects**
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/MohdShayan/)
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+</br>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
+
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,6 +35,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+</br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdshayan)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanqureshi2411@gmail.com)
+
+
+
 ## My Journey:
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=MohdShayan&show_icons=true&theme=tokyonight" />
@@ -35,12 +49,16 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdShayan&theme=tokyonight" />
 </div>
 
+</br>
+
 ## Feeding...
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohdShayan/MohdShayan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohdShayan//MohdShayan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MohdShayan/MohdShayan/output/github-snake.svg" />
 </picture>
+
+</br>
 
 ## Let's Code & Smile! 😄
 
