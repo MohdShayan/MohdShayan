@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohd. Shayan Qureshi 👋</h1>
-<img align="right" src="https://visitcount.itsvg.in/api?id=MohdShayan&label=Profile%20Views&color=0&pretty=false" />
+<img align="right" src="https://komarev.com/ghpvc/?username=MohdShayan&color=blueviolet" />
 
 
 
