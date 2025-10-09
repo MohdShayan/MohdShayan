@@ -66,6 +66,10 @@
 
 </br>
 
+### Hacktoberfest 2025
+[![An image of @mohdshayan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdshayan)](https://holopin.io/@mohdshayan)
+
+
 ## Let's Code & Smile! 😄
 
 <p align="center">
