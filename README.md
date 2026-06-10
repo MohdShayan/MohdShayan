@@ -9,7 +9,7 @@
 
 - 🔭 I'm a **Web Developer** and **Blockchain Enthusiast**
 - 🌱 Currently Learning **Solidity** and **Web3 Technologies**
-- 🌱 Pursuing **B.Tech in Computer Science and Engineering (2nd Year)**
+- 🌱 Pursuing **B.Tech in Computer Science and Engineering**
 - 👯 I’m looking to collaborate on **Web3** and **Full Stack Projects**
 - 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/MohdShayan/)
 </br>
