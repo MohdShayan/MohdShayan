@@ -7,11 +7,12 @@
 </br>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350">
 
-- 🔭 I'm a **Web Developer** and **Blockchain Enthusiast**
-- 🌱 Currently Learning **Solidity** and **Web3 Technologies**
-- 🌱 Pursuing **B.Tech in Computer Science and Engineering**
-- 👯 I’m looking to collaborate on **Web3** and **Full Stack Projects**
-- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/MohdShayan/)
+- I'm a **Backend Developer** and **Blockchain Enthusiast**
+- Currently exploring AI and how it's reshaping software development
+- Research Intern @ VNIT Nagpur: worked on cryptographic protocols for networked, cloud-connected environments
+- Pursuing **B.Tech in Computer Science and Engineering(CGPA- 9.77)**
+- Actively looking for Software Developer opportunities
+- All of my projects are available at [**GitHub**](https://github.com/MohdShayan/)
 </br>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
@@ -43,9 +44,10 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/mohdshayan)
+[linkedin.com/in/mohdshayan](https://linkedin.com/in/mohdshayan)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shayanqureshi2411@gmail.com)
-
-
+[shayanqureshi2411@gmail.com](mailto:shayanqureshi2411@gmail.com)
 
 
 ## My Journey:
